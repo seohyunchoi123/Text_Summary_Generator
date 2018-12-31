@@ -5,3 +5,6 @@ Summarizing Text through both extractive way and abstractive way.
 2. Preprocessing (removing typos, stopwords)
 3. Shortened them into 3 sentences (Extractive)
 4. Trained Seq2seq with the extracted sentences and title of the article as trainset X, Y.
+
+
+![image](http://funkyimg.com/i/2PHW8.png)
